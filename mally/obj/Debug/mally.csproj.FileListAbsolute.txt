@@ -1,0 +1,10 @@
+C:\Users\zeno\source\repos\mally\mally\bin\Debug\mally.exe.config
+C:\Users\zeno\source\repos\mally\mally\bin\Debug\mally.exe
+C:\Users\zeno\source\repos\mally\mally\bin\Debug\mally.pdb
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.csproj.AssemblyReference.cache
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.Properties.Resources.resources
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.csproj.GenerateResource.cache
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.csproj.CoreCompileInputs.cache
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.exe
+C:\Users\zeno\source\repos\mally\mally\obj\Debug\mally.pdb
